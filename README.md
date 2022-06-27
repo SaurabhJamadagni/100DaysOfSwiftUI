@@ -1,3 +1,5 @@
+![alt text](/Users/saurabh/Documents/Self Learning/ios-development/100DaysOfSwiftUI/Images/banner.png)
+
 # 100DaysOfSwiftUI
 
 This repository is for my notes and code for the [100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui) program by @twostraws.
