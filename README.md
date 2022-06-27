@@ -1,4 +1,4 @@
-![alt text](/Users/saurabh/Documents/Self Learning/ios-development/100DaysOfSwiftUI/Images/banner.png)
+![alt text](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/master/Images/banner.png)
 
 # 100DaysOfSwiftUI
 
