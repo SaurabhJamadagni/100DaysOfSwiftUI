@@ -1,16 +1,6 @@
 import Cocoa
 
-var mood = "Happy"
-// variables can be reassigned
-mood = "excited"
-
-// constants cannot be reassigned
-let pain = "constant"
-
-// Multi-line strings
-let fact = """
-Exercising is
-good for
-YOU!
-"""
-
+// adding the decimal point makes it a Double
+let celsius = 38.0
+let fahrenheit = (celsius * 9.0) / 5.0 + 32.0
+print("\(fahrenheit)°")
