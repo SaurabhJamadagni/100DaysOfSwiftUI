@@ -1,12 +1,19 @@
 import Cocoa
 
-// 1. Create a string of arrays
-let carCompanies = ["Porsche", "Ferrari", "BMW", "Mercedes", "Aston Martin", "bmw", "Porsche"]
+// FizzBuzz
+// loop over range of 1...100
+// if number is multiple of 3, print Fizz
+// if number is multiple of 5, print Buzz
+// if number is multiple of 3 & 5, print FizzBuzz
 
-// 2. print number of elements in the array
-print(carCompanies.count)
-
-// 3. print the number of unique elements in the array
-// here Porsche and BMW are repeated. But as BMW has different cases, it will count as unique.
-let uniqueCompaniesArray = Set(carCompanies)
-print(uniqueCompaniesArray.count)
+for i in 1...100 {
+  if i.isMultiple(of: 3) && i.isMultiple(of: 5) {
+    print("FizzBuzz")
+  } else if i.isMultiple(of: 3) {
+    print("Fizz")
+  } else if i.isMultiple(of: 5){
+    print("Buzz")
+  } else {
+    print(i)
+  }
+}
