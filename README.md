@@ -13,17 +13,17 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
  
 ### Timeline
 ---
-- [-] &nbsp;🏁 &nbsp; Day 0 > [Introduction and tips](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/a432715a53b7b7a056b78f8d08c09236d56b0e7e/Notes/day_0.md)
+- [x] &nbsp;🏁 &nbsp; Day 0 > [Introduction and tips](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/a432715a53b7b7a056b78f8d08c09236d56b0e7e/Notes/day_0.md)
 #### Fundamentals of Swift 🔠
-- [-] &nbsp;🔠 &nbsp; Day 1 > [Why Swift? Integers, Strings and Decimals in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_1.md)
-- [-] &nbsp;🔠 &nbsp; Day 2 > [Booleans and String interpolation - Checkpoint 1](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_2.md)
-- [-] &nbsp;🔠 &nbsp; Day 3 > [Arrays, Dictionaries, Sets and Enums](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_3.md)
-- [-] &nbsp;🔠 &nbsp; Day 4 > [Type Annotations - Checkpoint 2](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_4.md)
-- [-] &nbsp;🔠 &nbsp; Day 5 > [Conditionals in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_5.md)
-- [-] &nbsp;🔠 &nbsp; Day 6 > [Loops in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_6.md)
-- [-] &nbsp;🔠 &nbsp; Day 7 > [Functions](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_7.md)
-- [-] &nbsp;🔠 &nbsp; Day 8 > [Error handling and Default parameter values - Checkpoint 4](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_8.md)
-- [-] &nbsp;🔠 &nbsp; Day 9 > [Closures - Checkpoint 5](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/a432715a53b7b7a056b78f8d08c09236d56b0e7e/Notes/day_9.md)
+- [x] &nbsp;🔠 &nbsp; Day 1 > [Why Swift? Integers, Strings and Decimals in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_1.md)
+- [x] &nbsp;🔠 &nbsp; Day 2 > [Booleans and String interpolation - Checkpoint 1](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_2.md)
+- [x] &nbsp;🔠 &nbsp; Day 3 > [Arrays, Dictionaries, Sets and Enums](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_3.md)
+- [x] &nbsp;🔠 &nbsp; Day 4 > [Type Annotations - Checkpoint 2](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_4.md)
+- [x] &nbsp;🔠 &nbsp; Day 5 > [Conditionals in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_5.md)
+- [x] &nbsp;🔠 &nbsp; Day 6 > [Loops in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_6.md)
+- [x] &nbsp;🔠 &nbsp; Day 7 > [Functions](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_7.md)
+- [x] &nbsp;🔠 &nbsp; Day 8 > [Error handling and Default parameter values - Checkpoint 4](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_8.md)
+- [] &nbsp;🔠 &nbsp; Day 9 > [Closures - Checkpoint 5](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/a432715a53b7b7a056b78f8d08c09236d56b0e7e/Notes/day_9.md)
 - [ ] &nbsp;🔠 &nbsp; Day 10 >
 - [ ] &nbsp;🔠 &nbsp; Day 11 >
 - [ ] &nbsp;🔠 &nbsp; Day 12 >
