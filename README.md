@@ -27,7 +27,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;🔠 &nbsp; Day 10 > [Structs, computed properties and init](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/10c4fd1cc7142b2a960868dc023584741bd70b1c/Notes/day_10.md)
 - [x] &nbsp;🔠 &nbsp; Day 11 > [Access Modifiers, Static properties - Checkpoint 6](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/982c4428f4367f982672a978c5f1aeb1f7b43dab/Notes/day_11.md)
 - [x] &nbsp;🔠 &nbsp; Day 12 > [Classes, inheritance and deinitailizers- Checkpoint 7](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/982c4428f4367f982672a978c5f1aeb1f7b43dab/Notes/day_12.md)
-- [ ] &nbsp;🔠 &nbsp; Day 13 >
+- [x] &nbsp;🔠 &nbsp; Day 13 > [Protocols, extensions, Opaque return types - Checkpoint 8](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/5f1b1cac78f469b19186816a637363d9e682da90/Notes/day_13.md)
 - [ ] &nbsp;🔠 &nbsp; Day 14 >
 - [ ] &nbsp;🔠 &nbsp; Day 15 >
 
