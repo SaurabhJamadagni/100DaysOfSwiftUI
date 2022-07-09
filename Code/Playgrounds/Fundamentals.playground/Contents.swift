@@ -1,67 +1,45 @@
 import Cocoa
 
-class Animal {
-  let legs: Int
+protocol Building {
+  var numOfRooms: Int { get }
+  var cost: Int { get }
+  var agentName: String { get set }
   
-  init(legs: Int) {
-    self.legs = legs
-  }
+  func printSalesSummary()
 }
 
-class Dog: Animal {
-  func speak() {
-    print("I am a dog, woof woof!")
-  }
-}
-
-class Corgi: Dog {
-  override func speak() {
-    print("I am a corgi, woof woof!")
-  }
-}
-
-class Poodle: Dog {
-  override func speak() {
-    print("I am a poodle, woof woof!")
-  }
-}
-
-class Cat: Animal {
-  var isTame: Bool
+struct House: Building {
+  var numOfRooms: Int
+  var cost: Int
+  var agentName: String
   
-  init(isTame: Bool, legs: Int) {
-    self.isTame = isTame
-    super.init(legs: legs)
+  func printSalesSummary() {
+    print("This house has \(numOfRooms) rooms")
+    print("It costs $\(cost)")
+    print("The current RealEstate agent is \(agentName)")
   }
+}
+
+struct Office: Building {
+  var numOfRooms: Int
+  var cost: Int
+  var agentName: String
+  var isOnLease: Bool
   
-  func speak() {
-    print("I am a cat")
+  func printSalesSummary() {
+    print("This office has \(numOfRooms) rooms")
+    print("It costs $\(cost)")
+    print("The current RealEstate agent is \(agentName)")
+    if !isOnLease {
+      print("currently available for lease")
+    }
   }
 }
 
-class Persian: Cat {
-  override func speak() {
-    print("I am a cat and I purr")
-  }
-}
+var house = House(numOfRooms: 4, cost: 400_000, agentName: "Scrooge McDuck")
+house.printSalesSummary()
 
-class Lion: Cat {
-  override func speak() {
-    print("I am a cat and I roar")
-  }
-}
-
-let dog = Dog(legs: 4)
-dog.speak()
-let corgi = Corgi(legs: 4)
-corgi.speak()
-let poodle = Poodle(legs: 4)
-poodle.speak()
-
-let cat = Cat(isTame: true, legs: 4)
-cat.speak()
-let persian = Persian(isTame: true, legs: 4)
-persian.speak()
-let lion = Lion(isTame: false, legs: 4)
-lion.speak()
-print("Is a lion tameable? \(lion.isTame)")
+var office = Office(numOfRooms: 30, cost: 12_000_000, agentName: "Money Forall", isOnLease: false)
+office.printSalesSummary()
+office.numOfRooms = 50
+office.printSalesSummary()
