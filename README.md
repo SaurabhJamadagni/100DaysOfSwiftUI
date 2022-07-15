@@ -5,16 +5,21 @@
 This repository is for my notes and code for the [100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui) program by @twostraws.
 
 ### The Why
-After learning the basics of UIKit, I am jumping ship to SwiftUI. The challenge of practicing everyday demands consistency and I am all for it. I have been following Paul's work for a long time now and I trust his guidance in learning this framework. The Hacking With Swift community is a great place to be and learn! 
+
+After learning the basics of UIKit, I am jumping ship to SwiftUI. The challenge of practicing everyday demands consistency and I am all for it. I have been following Paul's work for a long time now and I trust his guidance in learning this framework. The Hacking With Swift community is a great place to be and learn!
 
 Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 <br>
 <br>
- 
+
 ### Timeline
+
 ---
+
 - [x] &nbsp;🏁 &nbsp; Day 0 > [Introduction and tips](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/a432715a53b7b7a056b78f8d08c09236d56b0e7e/Notes/day_0.md)
+
 #### Fundamentals of Swift 🔠
+
 - [x] &nbsp;🔠 &nbsp; Day 1 > [Why Swift? Integers, Strings and Decimals in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_1.md)
 - [x] &nbsp;🔠 &nbsp; Day 2 > [Booleans and String interpolation - Checkpoint 1](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_2.md)
 - [x] &nbsp;🔠 &nbsp; Day 3 > [Arrays, Dictionaries, Sets and Enums](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_3.md)
@@ -32,7 +37,8 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;🔠 &nbsp; Day 15 > Swift Review (Refer Notes from Day 1-14)
 
 #### Starting SwiftUI 👨‍💻
-- [ ] &nbsp;👨‍💻 &nbsp; Day 16 >
+
+- [x] &nbsp;👨‍💻 &nbsp; Day 16 > Project 1 - WeSplit | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/35be5b319eac14f4e53fd3000041440a679ed7a3/Notes/day_16.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
 - [ ] &nbsp;👨‍💻 &nbsp; Day 17 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 18 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 19 >
@@ -44,6 +50,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [ ] &nbsp;👨‍💻 &nbsp; Day 25 >
 
 #### Expanding Skills 🛠
+
 - [ ] &nbsp;🛠 &nbsp; Day 26 >
 - [ ] &nbsp;🛠 &nbsp; Day 27 >
 - [ ] &nbsp;🛠 &nbsp; Day 28 >
@@ -56,6 +63,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [ ] &nbsp;🛠 &nbsp; Day 35 >
 
 #### Scaling up to bigger apps ⬆️
+
 - [ ] &nbsp;⬆️ &nbsp; Day 36 >
 - [ ] &nbsp;⬆️ &nbsp; Day 37 >
 - [ ] &nbsp;⬆️ &nbsp; Day 38 >
@@ -71,6 +79,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [ ] &nbsp;⬆️ &nbsp; Day 48 >
 
 #### Focus on data 🔎
+
 - [ ] &nbsp;🔎 &nbsp; Day 49 >
 - [ ] &nbsp;🔎 &nbsp; Day 50 >
 - [ ] &nbsp;🔎 &nbsp; Day 51 >
@@ -86,6 +95,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [ ] &nbsp;🔎 &nbsp; Day 61 >
 
 #### Views and View Controllers 📲
+
 - [ ] &nbsp;📲 &nbsp; Day 62 >
 - [ ] &nbsp;📲 &nbsp; Day 63 >
 - [ ] &nbsp;📲 &nbsp; Day 64 >
@@ -105,6 +115,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [ ] &nbsp;📲 &nbsp; Day 78 >
 
 #### Controlling UI Flow 🕹
+
 - [ ] &nbsp;🕹 &nbsp; Day 79 >
 - [ ] &nbsp;🕹 &nbsp; Day 80 >
 - [ ] &nbsp;🕹 &nbsp; Day 81 >
@@ -124,6 +135,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [ ] &nbsp;🕹 &nbsp; Day 95 >
 
 #### One Last Project 🥳
+
 - [ ] &nbsp;🕺 &nbsp; Day 96 >
 - [ ] &nbsp;🕺 &nbsp; Day 97 >
 - [ ] &nbsp;🕺 &nbsp; Day 98 >
