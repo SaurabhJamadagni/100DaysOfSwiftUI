@@ -40,8 +40,8 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 
 - [x] &nbsp;👨‍💻 &nbsp; Day 16 > Project 1 - WeSplit | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/35be5b319eac14f4e53fd3000041440a679ed7a3/Notes/day_16.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
 - [x] &nbsp;👨‍💻 &nbsp; Day 17 > WeSplit continued | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/bfc3b7974fc8f24993658f946a20e9c9ffe9524a/Notes/day_17.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
-- [ ] &nbsp;👨‍💻 &nbsp; Day 18 >
-- [ ] &nbsp;👨‍💻 &nbsp; Day 19 >
+- [x] &nbsp;👨‍💻 &nbsp; Day 18 > WeSplit review | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/c775e17b826afeecb9b327b5b4f51640c44d36b9/Notes/day_18.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
+- [x] &nbsp;👨‍💻 &nbsp; Day 19 > Challenge Day - [Bad At Lengths!](https://github.com/SaurabhJamadagni/bad-at-lengths)
 - [ ] &nbsp;👨‍💻 &nbsp; Day 20 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 21 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 22 >
