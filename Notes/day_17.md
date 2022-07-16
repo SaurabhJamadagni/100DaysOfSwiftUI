@@ -49,7 +49,7 @@ Section {
 - We create a `ToolBarItemGroup(.keyboard)`.
 - In it we can create a Button that toggles the `@FocusState` to false.
 
-Pro Tip: Use `Spacer()`. It will puhs all the other components to the end of the view taking up all the space based on where it is used chronologically.
+> Pro Tip: Use `Spacer()`. It will push all the other components to the end of the view taking up all the space based on where it is used chronologically.
 
 ```swift
 .toolbar {
