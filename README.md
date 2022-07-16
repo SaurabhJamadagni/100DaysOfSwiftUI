@@ -39,7 +39,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 #### Starting SwiftUI 👨‍💻
 
 - [x] &nbsp;👨‍💻 &nbsp; Day 16 > Project 1 - WeSplit | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/35be5b319eac14f4e53fd3000041440a679ed7a3/Notes/day_16.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
-- [ ] &nbsp;👨‍💻 &nbsp; Day 17 >
+- [x] &nbsp;👨‍💻 &nbsp; Day 17 > WeSplit continued | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/35be5b319eac14f4e53fd3000041440a679ed7a3/Notes/day_17.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
 - [ ] &nbsp;👨‍💻 &nbsp; Day 18 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 19 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 20 >
