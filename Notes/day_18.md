@@ -52,5 +52,4 @@ Picker("Tip Percentage", selection: $tipPercentage) {
 let currencyCode: FloatingPointFormatStyle<Double>.Currency = .currency(code: Locale.current.currencyCode ?? "USD")
 ```
 
-<br>
 Thanks for reading! Let's connect on [Twitter](https://twitter.com/Saura6hJ) 👋
