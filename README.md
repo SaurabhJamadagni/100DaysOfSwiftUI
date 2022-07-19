@@ -44,7 +44,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;👨‍💻 &nbsp; Day 19 > Challenge Day - [Bad At Lengths!](https://github.com/SaurabhJamadagni/bad-at-lengths)
 - [x] &nbsp;👨‍💻 &nbsp; Day 20 > Project 2 - GuessTheFlag | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/ad0087c66f8f890640708a76561e9368944472d2/Notes/day_20.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
 - [x] &nbsp;👨‍💻 &nbsp; Day 21 > GuessTheFlag continued | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
-- [ ] &nbsp;👨‍💻 &nbsp; Day 22 >
+- [x] &nbsp;👨‍💻 &nbsp; Day 22 > GuessTheFlag challenges | Link to notes | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
 - [ ] &nbsp;👨‍💻 &nbsp; Day 23 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 24 >
 - [ ] &nbsp;👨‍💻 &nbsp; Day 25 >
