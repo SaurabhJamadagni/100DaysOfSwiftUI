@@ -37,3 +37,26 @@ label: {
     FlagImage(country: countries[number])
 }
 ```
+
+### Challenge - 3
+
+- Create a custom modifier that makes a view have a large blue font like a prominent title
+
+```swift
+struct Title: ViewModifier {
+    func body(content: Content) -> some View {
+        content
+            .font(.largeTitle.weight(.bold))
+            .foregroundColor(.blue)
+            .shadow(radius: 5)
+    }
+}
+
+extension View {
+    func stylizeTitle() -> some View {
+        modifier(Title())
+    }
+}
+```
+
+Thanks for reading! Let's connect on [Twitter](https://twitter.com/Saura6hJ) 👋
