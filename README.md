@@ -46,7 +46,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;👨‍💻 &nbsp; Day 21 > GuessTheFlag continued | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
 - [x] &nbsp;👨‍💻 &nbsp; Day 22 > GuessTheFlag challenges | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
 - [x] &nbsp;👨‍💻 &nbsp; Day 23 > [Technicalities behind SwiftUI, exploring modifiers](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/daaadff9be7e64de09743c7d3788ef101a0c5126/Notes/day_23.md)
-- [ ] &nbsp;👨‍💻 &nbsp; Day 24 >
+- [x] &nbsp;👨‍💻 &nbsp; Day 24 > Day 23 review and challenges | [Link to Notes](/Notes/day_24.md)
 - [ ] &nbsp;👨‍💻 &nbsp; Day 25 >
 
 #### Expanding Skills 🛠
