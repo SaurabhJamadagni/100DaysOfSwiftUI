@@ -16,36 +16,36 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 
 ---
 
-- [x] &nbsp;🏁 &nbsp; Day 0 > [Introduction and tips](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/a432715a53b7b7a056b78f8d08c09236d56b0e7e/Notes/day_0.md)
+- [x] &nbsp;🏁 &nbsp; Day 0 > [Introduction and tips](/Notes/day_0.md)
 
 #### Fundamentals of Swift 🔠
 
-- [x] &nbsp;🔠 &nbsp; Day 1 > [Why Swift? Integers, Strings and Decimals in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_1.md)
-- [x] &nbsp;🔠 &nbsp; Day 2 > [Booleans and String interpolation - Checkpoint 1](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_2.md)
-- [x] &nbsp;🔠 &nbsp; Day 3 > [Arrays, Dictionaries, Sets and Enums](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_3.md)
-- [x] &nbsp;🔠 &nbsp; Day 4 > [Type Annotations - Checkpoint 2](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_4.md)
-- [x] &nbsp;🔠 &nbsp; Day 5 > [Conditionals in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_5.md)
-- [x] &nbsp;🔠 &nbsp; Day 6 > [Loops in Swift](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_6.md)
-- [x] &nbsp;🔠 &nbsp; Day 7 > [Functions](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_7.md)
-- [x] &nbsp;🔠 &nbsp; Day 8 > [Error handling and Default parameter values - Checkpoint 4](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/60404cff4b32804868afa6aa4fc02e18ae6468a6/Notes/day_8.md)
-- [x] &nbsp;🔠 &nbsp; Day 9 > [Closures - Checkpoint 5](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/a432715a53b7b7a056b78f8d08c09236d56b0e7e/Notes/day_9.md)
-- [x] &nbsp;🔠 &nbsp; Day 10 > [Structs, computed properties and init](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/10c4fd1cc7142b2a960868dc023584741bd70b1c/Notes/day_10.md)
-- [x] &nbsp;🔠 &nbsp; Day 11 > [Access Modifiers, Static properties - Checkpoint 6](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/982c4428f4367f982672a978c5f1aeb1f7b43dab/Notes/day_11.md)
-- [x] &nbsp;🔠 &nbsp; Day 12 > [Classes, inheritance and deinitailizers- Checkpoint 7](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/982c4428f4367f982672a978c5f1aeb1f7b43dab/Notes/day_12.md)
-- [x] &nbsp;🔠 &nbsp; Day 13 > [Protocols, extensions, Opaque return types - Checkpoint 8](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/5f1b1cac78f469b19186816a637363d9e682da90/Notes/day_13.md)
-- [x] &nbsp;🔠 &nbsp; Day 14 > [Optionals and optional unwrapping - Checkpoint 9](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/56be158a557d7f8bd2698b4bdecf0e5c95158ff8/Notes/day_14.md)
+- [x] &nbsp;🔠 &nbsp; Day 1 > [Why Swift? Integers, Strings and Decimals in Swift](/Notes/day_1.md)
+- [x] &nbsp;🔠 &nbsp; Day 2 > [Booleans and String interpolation - Checkpoint 1](/Notes/day_2.md)
+- [x] &nbsp;🔠 &nbsp; Day 3 > [Arrays, Dictionaries, Sets and Enums](/Notes/day_3.md)
+- [x] &nbsp;🔠 &nbsp; Day 4 > [Type Annotations - Checkpoint 2](/Notes/day_4.md)
+- [x] &nbsp;🔠 &nbsp; Day 5 > [Conditionals in Swift](/Notes/day_5.md)
+- [x] &nbsp;🔠 &nbsp; Day 6 > [Loops in Swift](/Notes/day_6.md)
+- [x] &nbsp;🔠 &nbsp; Day 7 > [Functions](/Notes/day_7.md)
+- [x] &nbsp;🔠 &nbsp; Day 8 > [Error handling and Default parameter values - Checkpoint 4](/Notes/day_8.md)
+- [x] &nbsp;🔠 &nbsp; Day 9 > [Closures - Checkpoint 5](/Notes/day_9.md)
+- [x] &nbsp;🔠 &nbsp; Day 10 > [Structs, computed properties and init](/Notes/day_10.md)
+- [x] &nbsp;🔠 &nbsp; Day 11 > [Access Modifiers, Static properties - Checkpoint 6](/Notes/day_11.md)
+- [x] &nbsp;🔠 &nbsp; Day 12 > [Classes, inheritance and deinitailizers- Checkpoint 7](/Notes/day_12.md)
+- [x] &nbsp;🔠 &nbsp; Day 13 > [Protocols, extensions, Opaque return types - Checkpoint 8](/Notes/day_13.md)
+- [x] &nbsp;🔠 &nbsp; Day 14 > [Optionals and optional unwrapping - Checkpoint 9](/Notes/day_14.md)
 - [x] &nbsp;🔠 &nbsp; Day 15 > Swift Review (Refer Notes from Day 1-14)
 
 #### Starting SwiftUI 👨‍💻
 
-- [x] &nbsp;👨‍💻 &nbsp; Day 16 > Project 1 - WeSplit | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/35be5b319eac14f4e53fd3000041440a679ed7a3/Notes/day_16.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
-- [x] &nbsp;👨‍💻 &nbsp; Day 17 > WeSplit continued | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/bfc3b7974fc8f24993658f946a20e9c9ffe9524a/Notes/day_17.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
-- [x] &nbsp;👨‍💻 &nbsp; Day 18 > WeSplit review | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/c775e17b826afeecb9b327b5b4f51640c44d36b9/Notes/day_18.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
+- [x] &nbsp;👨‍💻 &nbsp; Day 16 > Project 1 - WeSplit | [Link to Notes](/Notes/day_16.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
+- [x] &nbsp;👨‍💻 &nbsp; Day 17 > WeSplit continued | [Link to Notes](/Notes/day_17.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
+- [x] &nbsp;👨‍💻 &nbsp; Day 18 > WeSplit review | [Link to Notes](/Notes/day_18.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WeSplit-proj1)
 - [x] &nbsp;👨‍💻 &nbsp; Day 19 > Challenge Day - [Bad At Lengths!](https://github.com/SaurabhJamadagni/bad-at-lengths)
-- [x] &nbsp;👨‍💻 &nbsp; Day 20 > Project 2 - GuessTheFlag | [Link to Notes](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/ad0087c66f8f890640708a76561e9368944472d2/Notes/day_20.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
+- [x] &nbsp;👨‍💻 &nbsp; Day 20 > Project 2 - GuessTheFlag | [Link to Notes](/Notes/day_20.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
 - [x] &nbsp;👨‍💻 &nbsp; Day 21 > GuessTheFlag continued | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
 - [x] &nbsp;👨‍💻 &nbsp; Day 22 > GuessTheFlag challenges | [Link to Project repo](https://github.com/SaurabhJamadagni/GuessTheFlag-proj2)
-- [x] &nbsp;👨‍💻 &nbsp; Day 23 > [Technicalities behind SwiftUI, exploring modifiers](https://github.com/SaurabhJamadagni/100DaysOfSwiftUI/blob/daaadff9be7e64de09743c7d3788ef101a0c5126/Notes/day_23.md)
+- [x] &nbsp;👨‍💻 &nbsp; Day 23 > [Technicalities behind SwiftUI, exploring modifiers](/Notes/day_23.md)
 - [x] &nbsp;👨‍💻 &nbsp; Day 24 > Day 23 review and challenges | [Link to Notes](/Notes/day_24.md)
 - [ ] &nbsp;👨‍💻 &nbsp; Day 25 >
 
