@@ -51,9 +51,9 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 
 #### Expanding Skills 🛠
 
-- [ ] &nbsp;🛠 &nbsp; Day 26 >
-- [ ] &nbsp;🛠 &nbsp; Day 27 >
-- [ ] &nbsp;🛠 &nbsp; Day 28 >
+- [x] &nbsp;🛠 &nbsp; Day 26 > Project 4 Begins - BetterRest | [Link to Notes](/Notes/day_26.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/BetterRest-proj4)
+- [x] &nbsp;🛠 &nbsp; Day 27 > BetterRest continued | [Link to Project repo](https://github.com/SaurabhJamadagni/BetterRest-proj4)
+- [x] &nbsp;🛠 &nbsp; Day 28 > BetterRest Review and Challenges | [Link to Notes](/Notes/day_28.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/BetterRest-proj4)
 - [ ] &nbsp;🛠 &nbsp; Day 29 >
 - [ ] &nbsp;🛠 &nbsp; Day 30 >
 - [ ] &nbsp;🛠 &nbsp; Day 31 >
