@@ -57,8 +57,8 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;🛠 &nbsp; Day 29 > Project 5 Begins - WordScramble | [Link to Notes](/Notes/day_29.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WordScramble-proj5)
 - [x] &nbsp;🛠 &nbsp; Day 30 > WordScramble continued | [Link to Project repo](https://github.com/SaurabhJamadagni/WordScramble-proj5)
 - [x] &nbsp;🛠 &nbsp; Day 31 > WordScramble Review and Challenges | [Link to Notes](/Notes/day_31.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WordScramble-proj5)
-- [ ] &nbsp;🛠 &nbsp; Day 32 >
-- [ ] &nbsp;🛠 &nbsp; Day 33 >
+- [x] &nbsp;🛠 &nbsp; Day 32 > Technical Project - Animations | [Link to Notes](/Notes/day_32.md)
+- [x] &nbsp;🛠 &nbsp; Day 33 > Technical Project - Animations continued | [Link to Notes](/Notes/day_33.md)
 - [ ] &nbsp;🛠 &nbsp; Day 34 >
 - [ ] &nbsp;🛠 &nbsp; Day 35 >
 
