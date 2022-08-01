@@ -59,12 +59,12 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;🛠 &nbsp; Day 31 > WordScramble Review and Challenges | [Link to Notes](/Notes/day_31.md) | [Link to Project repo](https://github.com/SaurabhJamadagni/WordScramble-proj5)
 - [x] &nbsp;🛠 &nbsp; Day 32 > Technical Project - Animations | [Link to Notes](/Notes/day_32.md)
 - [x] &nbsp;🛠 &nbsp; Day 33 > Technical Project - Animations continued | [Link to Notes](/Notes/day_33.md)
-- [ ] &nbsp;🛠 &nbsp; Day 34 >
-- [ ] &nbsp;🛠 &nbsp; Day 35 >
+- [x] &nbsp;🛠 &nbsp; Day 34 > Animations Review and Challenges | [Link to Notes](/Notes/day_34.md) #incomplete
+- [x] &nbsp;🛠 &nbsp; Day 35 > Milestorn projects 4-6 | Challenge project WIP
 
 #### Scaling up to bigger apps ⬆️
 
-- [ ] &nbsp;⬆️ &nbsp; Day 36 >
+- [x] &nbsp;⬆️ &nbsp; Day 36 > Project iExpense Begins - [@StateObject, sheet, onDelete, UserDefaults](/Notes/day_36.md)
 - [ ] &nbsp;⬆️ &nbsp; Day 37 >
 - [ ] &nbsp;⬆️ &nbsp; Day 38 >
 - [ ] &nbsp;⬆️ &nbsp; Day 39 >
