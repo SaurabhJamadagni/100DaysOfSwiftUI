@@ -68,15 +68,15 @@ var body: some View {
 ```
 
 - It takes iOS a little time to write your data to permanent storage
-- We can use the @AppStorage property wrapper instead. We then pass the key in parenthesis.
-- It allows us to make a variable directly read and write to the UserDefaults. That way we don't have to even use the set() function. Any changes to the variable are reflected in storage.
+- We can use the `@AppStorage` property wrapper instead. We then pass the key in parenthesis.
+- It allows us to make a variable directly read and write to the UserDefaults. That way we don't have to even use the `set()` function. Any changes to the variable are reflected in storage.
 
 ### Archiving with codable
 
-- Codable protocol allows us to add complex data like structs to UserDefaults by encoding to JSON or decoding from JSON.
+- `Codable` protocol allows us to add complex data like structs to UserDefaults by **encoding to JSON or decoding from JSON**.
 - Other types are available but JSON is by far the most common.
-- To encode we must create a JSONEncoder object.
-- The type Data is allowed in UserDefaults. Encoder converts our struct into the Data type.
+- To encode we must create a `JSONEncoder` object.
+- The type `Data` is allowed in UserDefaults. Encoder converts our struct into the `Data` type.
 
 ```swift
 let encoder = JSONEncoder()
@@ -86,15 +86,15 @@ if let data = try? encoder.encode(user) {
 }
 ```
 
-- To decode it, we can use the JSONDecoder.
+- To decode it, we can use the `JSONDecoder`.
 
 ### Summary
 
-- @State property wrapper is limited when it comes to sharing data across multiple views.
-- To share data we must use classes and the @StateObject or @ObservedObject property wrapper.
-- A sheet can be used to present a new view. It works similar to alerts.
-- onDelete works with ForEach and allows us to have a simple implementation in place that allows us to delete rows from a collection.
-- We can use UserDefaults to store small amounts of data such as user preferances or use the property wrapper @AppStorage to do the same.
-- For complex types, we must use the protocol and directly access UserDefualts to store data.
+- `@State` property wrapper is limited when it comes to sharing data across multiple views.
+- To share data we must use classes and the `@StateObject` or `@ObservedObject` property wrapper.
+- A `sheet` can be used to present a new view. It works similar to alerts.
+- `onDelete` works with ForEach and allows us to have a simple implementation in place that allows us to delete rows from a collection.
+- We can use `UserDefaults` to store small amounts of data such as user preferances or use the property wrapper `@AppStorage` to do the same.
+- For complex types, we must use the `Codable` protocol and directly access UserDefualts to store data.
 
 Thanks for reading! Let's connect on [Twitter](https://twitter.com/Saura6hJ) 👋
