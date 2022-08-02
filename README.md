@@ -65,7 +65,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 #### Scaling up to bigger apps ⬆️
 
 - [x] &nbsp;⬆️ &nbsp; Day 36 > Project iExpense Begins - [@StateObject, sheet, onDelete, UserDefaults](/Notes/day_36.md)
-- [ ] &nbsp;⬆️ &nbsp; Day 37 >
+- [x] &nbsp;⬆️ &nbsp; Day 37 > iExpense continued - [UUID](/Notes/day_37.md) | [Link to Project Repo]()
 - [ ] &nbsp;⬆️ &nbsp; Day 38 >
 - [ ] &nbsp;⬆️ &nbsp; Day 39 >
 - [ ] &nbsp;⬆️ &nbsp; Day 40 >
