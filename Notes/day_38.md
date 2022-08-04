@@ -39,6 +39,8 @@ Text(item.amount, format: .currency(code: Locale.current.currencyCode ?? "USD"))
     .clipShape(RoundedRectangle(cornerRadius: 5))
 ```
 
-### Challenge - 3
+### Challenge - 3 (WIP)
 
 - try splitting the expenses list into two sections: one for personal expenses, and one for business expenses
+
+Thanks for reading! Let's connect on [Twitter](https://twitter.com/Saura6hJ) 👋

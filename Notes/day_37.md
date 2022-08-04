@@ -11,3 +11,5 @@
 - We conform the struct to the `Identifiable` protocol.
 - The only requirement of this protocol is that there must be a property id initialised using `UUID()`.
 - This allows us to get rid of the id parameter in ForEach.
+
+Thanks for reading! Let's connect on [Twitter](https://twitter.com/Saura6hJ) 👋
