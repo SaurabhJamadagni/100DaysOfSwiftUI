@@ -68,7 +68,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;⬆️ &nbsp; Day 37 > iExpense continued - [UUID](/Notes/day_37.md) | [Link to Project Repo](https://github.com/SaurabhJamadagni/iExpense-proj7)
 - [x] &nbsp;⬆️ &nbsp; Day 38 > iExpense Review and Challenges (WIP) | [Link to Notes](/Notes/day_38.md) | [Link to Project Repo](https://github.com/SaurabhJamadagni/iExpense-proj7)
 - [x] &nbsp;⬆️ &nbsp; Day 39 > MoonShot - Proj 8 | [ScrollView, Lazy Stacks, NavigationLink, Scrolling Grids](/Notes/day_39.md)
-- [ ] &nbsp;⬆️ &nbsp; Day 40 >
+- [x] &nbsp;⬆️ &nbsp; Day 40 > Moonshot continued - [Generics with Codable, Date formatter, Custom colours](/Notes/day_40.md)
 - [ ] &nbsp;⬆️ &nbsp; Day 41 >
 - [ ] &nbsp;⬆️ &nbsp; Day 42 >
 - [ ] &nbsp;⬆️ &nbsp; Day 43 >
