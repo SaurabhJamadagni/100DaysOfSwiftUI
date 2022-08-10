@@ -70,7 +70,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;⬆️ &nbsp; Day 39 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) - Proj 8 | [ScrollView, Lazy Stacks, NavigationLink, Scrolling Grids](/Notes/day_39.md)
 - [x] &nbsp;⬆️ &nbsp; Day 40 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) continued - [Generics with Codable, Date formatter, Custom colours](/Notes/day_40.md)
 - [x] &nbsp;⬆️ &nbsp; Day 41 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) continued - Adding more views to the app
-- [ ] &nbsp;⬆️ &nbsp; Day 42 >
+- [x] &nbsp;⬆️ &nbsp; Day 42 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) review and challenge | [Link to Notes](/Notes/day_42.md)
 - [ ] &nbsp;⬆️ &nbsp; Day 43 >
 - [ ] &nbsp;⬆️ &nbsp; Day 44 >
 - [ ] &nbsp;⬆️ &nbsp; Day 45 >
