@@ -7,7 +7,7 @@
 
 ### Challenge - 1
 
-- Add launch date to MissionView
+- Add launch date to `MissionView.swift`
   - Add a simple Text view in the appropriate position to display the launch date.
 
 ```swift
