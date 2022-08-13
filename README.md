@@ -71,7 +71,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;⬆️ &nbsp; Day 40 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) continued - [Generics with Codable, Date formatter, Custom colours](/Notes/day_40.md)
 - [x] &nbsp;⬆️ &nbsp; Day 41 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) continued - Adding more views to the app
 - [x] &nbsp;⬆️ &nbsp; Day 42 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) review and challenge | [Link to Notes](/Notes/day_42.md)
-- [ ] &nbsp;⬆️ &nbsp; Day 43 >
+- [x] &nbsp;⬆️ &nbsp; Day 43 > Drawing Introduction | [Link to Notes](/Notes/day_43.md)
 - [ ] &nbsp;⬆️ &nbsp; Day 44 >
 - [ ] &nbsp;⬆️ &nbsp; Day 45 >
 - [ ] &nbsp;⬆️ &nbsp; Day 46 >
