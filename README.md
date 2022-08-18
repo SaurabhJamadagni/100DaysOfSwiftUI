@@ -73,7 +73,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;⬆️ &nbsp; Day 42 > [MoonShot](https://github.com/SaurabhJamadagni/MoonShot-proj8) review and challenge | [Link to Notes](/Notes/day_42.md)
 - [x] &nbsp;⬆️ &nbsp; Day 43 > Drawing Introduction | [Link to Notes](/Notes/day_43.md)
 - [x] &nbsp;⬆️ &nbsp; Day 44 > CGAffineTransform, Even-Odd fill, ImagePaint, Metal | [Link to Notes](/Notes/day_44.md)
-- [ ] &nbsp;⬆️ &nbsp; Day 45 >
+- [x] &nbsp;⬆️ &nbsp; Day 45 > Special effects, animatableData, AnimatablePair, Spriograph | [Link to Notes](/Notes/day_45.md)
 - [ ] &nbsp;⬆️ &nbsp; Day 46 >
 - [ ] &nbsp;⬆️ &nbsp; Day 47 >
 - [ ] &nbsp;⬆️ &nbsp; Day 48 >
