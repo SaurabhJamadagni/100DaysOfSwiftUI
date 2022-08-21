@@ -75,8 +75,8 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;⬆️ &nbsp; Day 44 > CGAffineTransform, Even-Odd fill, ImagePaint, Metal | [Link to Notes](/Notes/day_44.md)
 - [x] &nbsp;⬆️ &nbsp; Day 45 > Special effects, animatableData, AnimatablePair, Spriograph | [Link to Notes](/Notes/day_45.md)
 - [x] &nbsp;⬆️ &nbsp; Day 46 > Drawing review and challenges | [Link to Notes](/Notes/day_46.md)
-- [ ] &nbsp;⬆️ &nbsp; Day 47 >
-- [ ] &nbsp;⬆️ &nbsp; Day 48 >
+- [x] &nbsp;⬆️ &nbsp; Day 47 > Milestone day for Projects 7-9 | Challenge - HabitTracker (WIP)
+- [x] &nbsp;⬆️ &nbsp; Day 48 > Star Wars themed presentation by Paul Hudson and a message from Steve Wozniak
 
 #### Focus on data 🔎
 
