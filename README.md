@@ -80,7 +80,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 
 #### Focus on data 🔎
 
-- [ ] &nbsp;🔎 &nbsp; Day 49 >
+- [x] &nbsp;🔎 &nbsp; Day 49 > URLSession, AsyncImages, Validating inputs, more on Codable | [Link to Notes](/Notes/day_49.md)
 - [ ] &nbsp;🔎 &nbsp; Day 50 >
 - [ ] &nbsp;🔎 &nbsp; Day 51 >
 - [ ] &nbsp;🔎 &nbsp; Day 52 >
