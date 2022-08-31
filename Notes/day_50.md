@@ -33,3 +33,5 @@ if order.hasSpecialRequest {
 
 ### Advantage of having a image to be remote vs on device storage.
 - It allows us to swap it with something else during discount seasons or festivals.
+
+Thanks for reading! Let's connect on [Twitter](https://twitter.com/Saura6hJ) 👋
