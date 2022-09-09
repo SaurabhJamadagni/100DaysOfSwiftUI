@@ -82,8 +82,8 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 
 - [x] &nbsp;🔎 &nbsp; Day 49 > URLSession, AsyncImages, Validating inputs, more on Codable | [Link to Notes](/Notes/day_49.md)
 - [x] &nbsp;🔎 &nbsp; Day 50 > Building basic UI for Cupcake Corner | [Link to Notes](Notes/day_50.md)
-- [ ] &nbsp;🔎 &nbsp; Day 51 >
-- [ ] &nbsp;🔎 &nbsp; Day 52 >
+- [x] &nbsp;🔎 &nbsp; Day 51 > Adding networking calls to Cupcake Corner
+- [x] &nbsp;🔎 &nbsp; Day 52 > CupcakeCorner review and Challenges | [Link to Notes](/Notes/day_52.md)
 - [ ] &nbsp;🔎 &nbsp; Day 53 >
 - [ ] &nbsp;🔎 &nbsp; Day 54 >
 - [ ] &nbsp;🔎 &nbsp; Day 55 >
