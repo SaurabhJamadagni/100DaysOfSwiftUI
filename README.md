@@ -84,7 +84,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;🔎 &nbsp; Day 50 > Building basic UI for [Cupcake Corner](https://github.com/SaurabhJamadagni/CupcakeCorner-proj10) | [Link to Notes](Notes/day_50.md)
 - [x] &nbsp;🔎 &nbsp; Day 51 > Adding networking calls to [Cupcake Corner](https://github.com/SaurabhJamadagni/CupcakeCorner-proj10)
 - [x] &nbsp;🔎 &nbsp; Day 52 > [Cupcake Corner](https://github.com/SaurabhJamadagni/CupcakeCorner-proj10) review and Challenges | [Link to Notes](/Notes/day_52.md)
-- [ ] &nbsp;🔎 &nbsp; Day 53 >
+- [x] &nbsp;🔎 &nbsp; Day 53 > Start of Bookworm - CoreData, Binding, TextEditor | [Link to Notes](/Notes/day_53.md)
 - [ ] &nbsp;🔎 &nbsp; Day 54 >
 - [ ] &nbsp;🔎 &nbsp; Day 55 >
 - [ ] &nbsp;🔎 &nbsp; Day 56 >
