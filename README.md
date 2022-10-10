@@ -87,8 +87,8 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;🔎 &nbsp; Day 53 > Start of Bookworm - CoreData, Binding, TextEditor | [Link to Notes](/Notes/day_53.md)
 - [x] &nbsp;🔎 &nbsp; Day 54 > Bookworm - Custom UI component, Fetching data | [Link to Notes](/Notes/day_54.md)
 - [x] &nbsp;🔎 &nbsp; Day 55 > Bookworm - Detail View, Dismissing page using alerts, SortDescriptor | [Link to Notes](/Notes/day_55.md)
-- [ ] &nbsp;🔎 &nbsp; Day 56 >
-- [ ] &nbsp;🔎 &nbsp; Day 57 >
+- [x] &nbsp;🔎 &nbsp; Day 56 > Bookworm review and Challenges | [Link to Notes](/Notes/day_56.md)
+- [x] &nbsp;🔎 &nbsp; Day 57 > CoreData technique project - `\.self`, Custom subclasses, conditional save, constraints | [Link to Notes](/Notes/day_57.md)
 - [ ] &nbsp;🔎 &nbsp; Day 58 >
 - [ ] &nbsp;🔎 &nbsp; Day 59 >
 - [ ] &nbsp;🔎 &nbsp; Day 60 >
