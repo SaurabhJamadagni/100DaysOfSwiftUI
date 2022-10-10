@@ -44,3 +44,4 @@ Section {
 .foregroundColor(book.rating == 1 ? .red : .primary)
 ```
 
+Thanks for reading! Let's connect on [Twitter](https://twitter.com/Saura6hJ) 👋
