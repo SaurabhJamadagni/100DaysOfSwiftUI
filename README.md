@@ -90,13 +90,13 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;🔎 &nbsp; Day 56 > Bookworm review and Challenges | [Link to Notes](/Notes/day_56.md)
 - [x] &nbsp;🔎 &nbsp; Day 57 > CoreData technique project - `\.self`, Custom subclasses, conditional save, constraints | [Link to Notes](/Notes/day_57.md)
 - [x] &nbsp;🔎 &nbsp; Day 58 > NSPredicate, Dynamic FetchRequest, One-to-Many relationships | [Link to Notes](/Notes/day_58.md)
-- [ ] &nbsp;🔎 &nbsp; Day 59 >
-- [ ] &nbsp;🔎 &nbsp; Day 60 >
-- [ ] &nbsp;🔎 &nbsp; Day 61 >
+- [x] &nbsp;🔎 &nbsp; Day 59 > Technique Project review and Challenge day
+- [x] &nbsp;🔎 &nbsp; Day 60 > Milestone and Challenge Project (Link to repo coming soon...)
+- [x] &nbsp;🔎 &nbsp; Day 61 > Challenge continued - implementing CoreData inside Milestone project
 
 #### Views and View Controllers 📲
 
-- [ ] &nbsp;📲 &nbsp; Day 62 >
+- [x] &nbsp;📲 &nbsp; Day 62 > Wrappers and Structs, onChange, confirmationDialog | [Link to Notes](/Notes/day_62.md)
 - [ ] &nbsp;📲 &nbsp; Day 63 >
 - [ ] &nbsp;📲 &nbsp; Day 64 >
 - [ ] &nbsp;📲 &nbsp; Day 65 >
