@@ -97,7 +97,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 #### Views and View Controllers 📲
 
 - [x] &nbsp;📲 &nbsp; Day 62 > Wrappers and Structs, onChange, confirmationDialog | [Link to Notes](/Notes/day_62.md)
-- [ ] &nbsp;📲 &nbsp; Day 63 >
+- [x] &nbsp;📲 &nbsp; Day 63 > Implementing CoreImage, Integrating UIViewControllers with SwiftUI Views | [Link to Notes](/Notes/day_63.md)
 - [ ] &nbsp;📲 &nbsp; Day 64 >
 - [ ] &nbsp;📲 &nbsp; Day 65 >
 - [ ] &nbsp;📲 &nbsp; Day 66 >
