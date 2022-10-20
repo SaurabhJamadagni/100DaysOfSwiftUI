@@ -99,7 +99,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;📲 &nbsp; Day 62 > Wrappers and Structs, onChange, confirmationDialog | [Link to Notes](/Notes/day_62.md)
 - [x] &nbsp;📲 &nbsp; Day 63 > Implementing CoreImage, Integrating UIViewControllers with SwiftUI Views | [Link to Notes](/Notes/day_63.md)
 - [x] &nbsp;📲 &nbsp; Day 64 > Coordinators, UIImageWriteToSavedPhotosAlbum() | [Link to Notes](/Notes/day_64.md)
-- [ ] &nbsp;📲 &nbsp; Day 65 >
+- [x] &nbsp;📲 &nbsp; Day 65 > Basic UI for Instafilter
 - [ ] &nbsp;📲 &nbsp; Day 66 >
 - [ ] &nbsp;📲 &nbsp; Day 67 >
 - [ ] &nbsp;📲 &nbsp; Day 68 >
