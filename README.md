@@ -102,7 +102,7 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;📲 &nbsp; Day 65 > Basic UI for [Instafilter](https://github.com/SaurabhJamadagni/Instafilter-proj13)
 - [x] &nbsp;📲 &nbsp; Day 66 > Adding more filters, Save functionality | [Template files](https://github.com/SaurabhJamadagni/swift-templates)
 - [x] &nbsp;📲 &nbsp; Day 67 > Challenge and Review for [Instafilter](https://github.com/SaurabhJamadagni/Instafilter-proj13) | [Link to Notes](/Notes/day_67.md)
-- [ ] &nbsp;📲 &nbsp; Day 68 >
+- [x] &nbsp;📲 &nbsp; Day 68 > BucketList - Operator Overloading, using document directory | [Link to Notes](/Notes/day_68.md)
 - [ ] &nbsp;📲 &nbsp; Day 69 >
 - [ ] &nbsp;📲 &nbsp; Day 70 >
 - [ ] &nbsp;📲 &nbsp; Day 71 >
