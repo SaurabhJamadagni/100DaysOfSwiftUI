@@ -102,15 +102,15 @@ Core skills, Extension skills and Common beginner mistakes discussed on Day 0.
 - [x] &nbsp;📲 &nbsp; Day 65 > Basic UI for [Instafilter](https://github.com/SaurabhJamadagni/Instafilter-proj13)
 - [x] &nbsp;📲 &nbsp; Day 66 > Adding more filters, Save functionality | [Template files](https://github.com/SaurabhJamadagni/swift-templates)
 - [x] &nbsp;📲 &nbsp; Day 67 > Challenge and Review for [Instafilter](https://github.com/SaurabhJamadagni/Instafilter-proj13) | [Link to Notes](/Notes/day_67.md)
-- [x] &nbsp;📲 &nbsp; Day 68 > BucketList - Operator Overloading, using document directory | [Link to Notes](/Notes/day_68.md)
+- [x] &nbsp;📲 &nbsp; Day 68 > [BucketList](https://github.com/SaurabhJamadagni/BucketList-proj14) - Operator Overloading, using document directory | [Link to Notes](/Notes/day_68.md)
 - [x] &nbsp;📲 &nbsp; Day 69 > Introduction to Mapkit, Biometric Authentication | [Link to Notes](/Notes/day_69.md)
 - [x] &nbsp;📲 &nbsp; Day 70 > @escaping, init for State vars, MapAnnotations | [Link to Notes](/Notes/day_70.md)
 - [x] &nbsp;📲 &nbsp; Day 71 > Downloading data from Wikipedia, Comparable Usecase | [Link to Notes](/Notes/day_71.md)
 - [x] &nbsp;📲 &nbsp; Day 72 > MVVM, using MainActor | [Link to Notes](/notes/day_72.md)
-- [ ] &nbsp;📲 &nbsp; Day 73 >
-- [ ] &nbsp;📲 &nbsp; Day 74 >
-- [ ] &nbsp;📲 &nbsp; Day 75 >
-- [ ] &nbsp;📲 &nbsp; Day 76 >
+- [x] &nbsp;📲 &nbsp; Day 73 > [BucketList](https://github.com/SaurabhJamadagni/BucketList-proj14) Review and Challenges
+- [x] &nbsp;📲 &nbsp; Day 74 > Accessiblity labels and modifiers, Adustable actions | [Link to Notes](/Notes/day_74.md)
+- [x] &nbsp;📲 &nbsp; Day 75 > Fixing past projects to support accessibility
+- [x] &nbsp;📲 &nbsp; Day 76 > Accessiblity Review and Challenges
 - [ ] &nbsp;📲 &nbsp; Day 77 >
 - [ ] &nbsp;📲 &nbsp; Day 78 >
 
